@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/coda-frontend/static/css/main.22733d34.chunk.css",
+    "main.js": "/coda-frontend/static/js/main.bf716414.chunk.js",
+    "main.js.map": "/coda-frontend/static/js/main.bf716414.chunk.js.map",
+    "runtime-main.js": "/coda-frontend/static/js/runtime-main.feab294b.js",
+    "runtime-main.js.map": "/coda-frontend/static/js/runtime-main.feab294b.js.map",
+    "static/js/2.5630b1d2.chunk.js": "/coda-frontend/static/js/2.5630b1d2.chunk.js",
+    "static/js/2.5630b1d2.chunk.js.map": "/coda-frontend/static/js/2.5630b1d2.chunk.js.map",
+    "index.html": "/coda-frontend/index.html",
+    "precache-manifest.c86e03286c3be973235761c09b92d00c.js": "/coda-frontend/precache-manifest.c86e03286c3be973235761c09b92d00c.js",
+    "service-worker.js": "/coda-frontend/service-worker.js",
+    "static/css/main.22733d34.chunk.css.map": "/coda-frontend/static/css/main.22733d34.chunk.css.map",
+    "static/js/2.5630b1d2.chunk.js.LICENSE.txt": "/coda-frontend/static/js/2.5630b1d2.chunk.js.LICENSE.txt",
+    "static/media/product.png": "/coda-frontend/static/media/product.bb555731.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.feab294b.js",
+    "static/js/2.5630b1d2.chunk.js",
+    "static/css/main.22733d34.chunk.css",
+    "static/js/main.bf716414.chunk.js"
+  ]
+}
