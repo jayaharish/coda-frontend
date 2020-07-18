@@ -1,6 +1,6 @@
 function rejectBid(id, buyer) {
   return new Promise((resolve, reject) => {
-    fetch("http://localhost:9999/bidding/reject", {
+    fetch("http://ec2-54-209-57-169.compute-1.amazonaws.com/bidding/reject", {
       headers: {
         Accept: "application/json",
         "Content-Type": "application/json",

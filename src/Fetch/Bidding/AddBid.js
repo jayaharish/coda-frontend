@@ -1,6 +1,6 @@
 function addBid(amount, id, seller) {
   return new Promise((resolve, reject) => {
-    fetch("http://localhost:9999/bidding/add", {
+    fetch("http://ec2-54-209-57-169.compute-1.amazonaws.com/bidding/add", {
       headers: {
         Accept: "application/json",
         "Content-Type": "application/json",

@@ -1,6 +1,6 @@
 function getAll() {
   return new Promise((resolve, reject) => {
-    fetch("http://localhost:9999/bidding/", {
+    fetch("http://ec2-54-209-57-169.compute-1.amazonaws.com/bidding/", {
       headers: {
         Accept: "application/json",
         "Content-Type": "application/json",

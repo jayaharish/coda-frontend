@@ -1,6 +1,6 @@
 function addBalance(amount) {
   return new Promise((resolve, reject) => {
-    fetch("http://localhost:9999/balance/add", {
+    fetch("http://ec2-54-209-57-169.compute-1.amazonaws.com/balance/add", {
       headers: {
         Accept: "application/json",
         "Content-Type": "application/json",

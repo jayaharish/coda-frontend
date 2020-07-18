@@ -1,6 +1,6 @@
 function insertProduct(title, description, price, category) {
   return new Promise((resolve, reject) => {
-    fetch("http://localhost:9999/addProduct", {
+    fetch("http://ec2-54-209-57-169.compute-1.amazonaws.com/addProduct", {
       headers: {
         Accept: "application/json",
         "Content-Type": "application/json",
